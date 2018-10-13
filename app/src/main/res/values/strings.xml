@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn0">zero</string>
+    <string name="btn1">one</string>
+    <string name="btn2">two</string>
+    <string name="btn3">three</string>
+    <string name="btn4">four</string>
+    <string name="btn5">five</string>
+    <string name="btn6">six</string>
+    <string name="btn7">seven</string>
+    <string name="btn8">eight</string>
+    <string name="btn9">nine</string>
+    <string name="btnMul">mul</string>
+    <string name="btnSub">sub</string>
+    <string name="btnDiv">div</string>
+    <string name="btnAdd">add</string>
+    <string name="btnClear">clear</string>
+    <string name="btnEqual">equal</string>
+    <string name="tvResult">result</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="add">+</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="mul">*</string>
+    <string name="clear">CLEAR</string>
+    <string name="zero">0</string>
+    <string name="equal">=</string>
+    <string name="div">/</string>
+    <string name="sub">-</string>
+</resources>
